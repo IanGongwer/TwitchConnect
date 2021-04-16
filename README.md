@@ -1,3 +1,4 @@
-TWITCH CONNECT
+# TwitchConnect
+An application that allows the user to view differing stats and other information regarding https://www.twitch.tv/.
 
-This is my first project that I have created! The objective of this project is to connect with the twitch api and utilze its various features to display information to the user.
+The whole codebase took roughly 5 hours to produce and was tested for errors.
