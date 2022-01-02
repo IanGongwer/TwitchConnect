@@ -2,7 +2,7 @@
 A python desktop application that allows users to look up a select few statistics about a specified streamer.
 
 This codebase was built using python-twitch-client (https://python-twitch-client.readthedocs.io/en/latest/helix.html) which is a Python wrapper for the Twitch API.
-The GUI was created with the tkinter library (https://docs.python.org/3/library/tkinter.html). If you would like to use this program, please follow this guide to setup your developer application (https://dev.twitch.tv/docs/api/) for OAuth.
+The GUI was created with the tkinter library (https://docs.python.org/3/library/tkinter.html). If you would like to use this program, please follow this guide to setup your developer application (https://dev.twitch.tv/docs/api/) for OAuth and client id/secret.
 
 Some various other statistical methods are located in the twitchapi.py file that are not included in the GUI.
 
