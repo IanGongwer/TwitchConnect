@@ -5,6 +5,8 @@ This codebase was built using python-twitch-client (https://python-twitch-client
 
 Some various other statistical methods are located in the twitchapi.py file that are not included in the GUI.
 
+This desktop application was created with Python 3.9.6. Run the GUI by opening the window.py file.
+
 # Main Menu
 ![image](https://user-images.githubusercontent.com/63007329/147889183-2737e6f9-d225-4f80-84dc-a67d58490879.png)
 
