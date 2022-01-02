@@ -1,2 +1,16 @@
 # TwitchConnect
-An application that allows the user to view differing stats and other information regarding https://www.twitch.tv/.
+A python desktop application that allows users to look up a select few statistics about a specified streamer.
+
+This codebase was built using python-twitch-client (https://python-twitch-client.readthedocs.io/en/latest/helix.html) which is a Python wrapper for the Twitch API.
+
+Some various other statistical methods are located in the twitchapi.py file that are not included in the GUI.
+
+# Main Menu
+![image](https://user-images.githubusercontent.com/63007329/147889183-2737e6f9-d225-4f80-84dc-a67d58490879.png)
+
+# Ninja Example
+![image](https://user-images.githubusercontent.com/63007329/147889191-d23605d3-4ef1-47d9-b7af-44339759c8de.png)
+
+- The hyperlinks are clickable and will load the link via your default browser.
+- The go back button will take the user to the main menu
+- The top 5 games update every time the main menu is refreshed
